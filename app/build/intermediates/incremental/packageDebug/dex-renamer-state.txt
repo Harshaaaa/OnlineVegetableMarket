@@ -1,0 +1,7 @@
+#Fri Apr 06 21:03:35 IST 2018
+base.0=/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa00417f33363a1d7f7a56a8275afa15957507ac
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ad916e7f429cb2adc10019442d5f063050180f7/classes.dex
+base.1=/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ad916e7f429cb2adc10019442d5f063050180f7
+file.0=/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa00417f33363a1d7f7a56a8275afa15957507ac/classes.dex

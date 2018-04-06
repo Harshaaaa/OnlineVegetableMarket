@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_carrt"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#a3a39f"
+    tools:context="com.example.apiiit_rkv.vegmarket.Cart">
+    <TextView
+        android:layout_marginTop="6dp"
+        android:layout_marginBottom="6dp"
+        android:layout_width="match_parent"
+        android:gravity="center_vertical|center"
+        android:onClick="navtooffers"
+        android:background="#605f5f"
+        android:textSize="16sp"
+        android:textColor="#FFF"
+        android:text="Shop for more and avial 5% offers click here >"
+        android:layout_height="40dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:textColor="#000"
+        android:textSize="17sp"
+        android:paddingLeft="2dp"
+        android:background="@drawable/fruveg"
+        android:text="Fruits and Vegetables Cart"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="6dp"
+        android:layout_height="40dp" />
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/recyclerView"
+        android:background="#fff"
+        android:layout_alignParentLeft="true">
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

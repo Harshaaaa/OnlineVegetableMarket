@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/menu/activity_vegetable_market_drawer.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/menu/activity_vegetable_market_drawer.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/menu/vegetable_market.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/menu/vegetable_market.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/menu/main.xml"
+    }
+]

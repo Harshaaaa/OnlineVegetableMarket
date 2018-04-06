@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_successfull_placed"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:background="#cfcece"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.apiiit_rkv.vegmarket.SuccessfullPlaced"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/success"
+        android:layout_height="400dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="Thanks for Order"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:layout_height="60dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:textSize="17sp"
+            android:text="Your Order has been successfully placed."
+            android:layout_height="40dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:src="@drawable/ic_check_circle_black_24dp"
+            android:layout_height="140dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:textSize="17sp"
+            android:layout_marginLeft="5dp"
+            android:textColor="#000"
+            android:text="Notes:Product will be delivered on or before the ordered date plus 7 days.thankyou regards."
+            android:layout_height="60dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <TextView
+                android:layout_width="160dp"
+                android:text="Total"
+                android:layout_gravity="center"
+                android:gravity="center_vertical"
+                android:textSize="28sp"
+                android:layout_height="70dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:textColor="#e47e0505"
+                android:text="100 Rs"
+                android:textSize="30sp"
+                android:layout_gravity="center"
+                android:id="@+id/setcost"
+                android:gravity="center"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:layout_marginTop="30dp"
+        android:layout_width="254dp"
+        android:layout_marginLeft="100dp"
+        android:text="Continue Shopping"
+        android:onClick="navtomain"
+        android:textColor="#FFF"
+        android:background="#e47e0505"
+        android:layout_height="45dp" />
+</LinearLayout>

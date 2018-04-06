@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">VegMarket</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_forgot_password">ForgotPassword</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_images">DisplayImagesActivity</string>
+    <string name="title_activity_vegetable_market">VegetableMarket</string>
+    <string name="title_activity_cart">Cart</string>
+    <string name="title_activity_carrt">Carrt</string>
+    <string name="title_activity_single_item_buy">SingleItemBuy</string>
+    <string name="title_activity_paymeny_page">PaymenyPage</string>
+    <string name="title_activity_faqs">FAQs</string>
+    <string name="faqs_kindly_check_the_faq_below_if_you_are_not_very_familiar_with_the_functioning_of_this_website_if_your_query_is_of_urgent_nature_and_is_different_from_the_set_of_questions_then_do_write_to_us_at_customerservice_bigbasket_com_or_call_us_on_1860_123_1000_between_7_am_10_pm_on_all_days_including_sunday_to_get_our_immediate_help"><![CDATA[Kindly check the FAQs. If your query is of urgent nature and is different from the set of questions then do write to us at r121047@rguktkrkv.ac.in or call us on 8184817488 between 7 am & 10 pm on all days including Sunday to get our immediate help.]]></string>
+    <string name="you_can_register_by_clicking_on_the_sign_up_button_at_the_homepage_please_provide_the_information_in_the_form_that_appears_you_can_review_the_terms_and_conditions_provide_your_payment_mode_details_and_submit_the_registration_information">You can register by clicking on the Sign Up Button at the homepage. Please provide the information in the form that appears. You can review the terms and conditions, provide your payment mode details and submit the registration information.</string>
+    <string name="title_activity_contact_us">ContactUS</string>
+    <string name="title_activity_new_offers">NewOffers</string>
+    <string name="title_activity_search_items">SearchItems</string>
+    <string name="hii">You can pay for your order on Vegetable Market using the following modes of payment: \na. Cash on delivery\nb. Credit and debit cards (VISA / Mastercard)</string>
+</resources>

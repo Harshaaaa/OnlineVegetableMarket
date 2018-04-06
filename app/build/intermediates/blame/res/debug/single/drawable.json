@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/login.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/login.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/logout.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/contact.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/contact.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/ffaq.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/ffaq.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/offers.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/offers.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/empty.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/empty.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/aer.jpg",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/aer.jpg"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/contact_page.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/contact_page.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/success.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/success.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/faq.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/faq.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/fruveg.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/fruveg.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/finalsplash.jpg",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/finalsplash.jpg"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/full.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/full.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/tooltip_frame_light.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/edittext.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/edittext.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/images.png",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/images.png"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/res/drawable/abc_edit_text_material.xml"
+    }
+]

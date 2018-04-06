@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_a7c2dca7f86d4ce936a6c268c9f6dbdb5fee6e0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_315a9ae3cf3ff4449167ac69cb5759d2b68d3b66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-26.1.0_2cb752f8d58df30def4ef4e726bf57088e5cc69c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-26.1.0_4bff528cf54ca93954e3d4f12ea5f4a53736661a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-26.1.0_32fffd289300d81ad4c4e5a779fc4f1051a0a2f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-26.1.0_bd1368336a61a1dde77469f069d27636479237f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_6261f290b0381b6d80c2be3a71e33f6a5a4366fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_c66d0d7488db8745a924ba9c5985fa44ba28931f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3b32f8daa5f6e849e2913fa45d5de2164df58cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-26.1.0_de828755e8a9023dbd8767bd796a24b2b9b62147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_40ab56aee31da3705128e9a03326486e9b965930/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_a9a2ad034f299efd76be2d7ea0a0d81b6f0a7bb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_0bc39bfacac56161d899246d56943cdd868185b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-26.1.0_83961234b70f6e103148dc14899345d1a9dc2830/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_a92c98c54cae390b1ae6eb354eae309918c8140e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.4.0/558e074f136fee609b8758480ecd00e286595137/firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.4.0_3ba5def8661ef055b2c91b15e82d3e25edcbde39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_596410b94c104ee24000b36660565215d302b1e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_c48098ce4d9df4913c29b9fc4750d3c6d1c129a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_c01b19b8753e7f7697e2522155a59cbc59cfb631/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_26697d3b292a45e834493ecdd72b7fa65af0fcd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-26.1.0_3b469c89c57744151e07fcef229ad36455f67e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_0d922a9ec747222aae2dc69a556b1080e330f6c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_4b93375089319ffff3a427d3d026d33610c0f67a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.6.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7058bce7e91ddb18e2e07b0b699019039b87e47b">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.6.2_401c8d74c311e3eb35f447a289db9fe8373958d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.2_b02c171a17d3fcf486a7146fd2b1223345656d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.2.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b445f5d808bea6c0a2b48845ea22bb66040486aa">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.2.8_78eb436135bb8667d105eb7b237c0633f48c22f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_18861e2359c2930bb9c748b217bbfd4dd18b8aab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90a7782d0f7e34101394dd924f9fdbf8a165fcf7">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa00417f33363a1d7f7a56a8275afa15957507ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-26.1.0_eeb34bdfab02572e66008907514f965001bbf65f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-26.1.0_bcec769e7dde84a137886b879cdf10009a8787c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-26.1.0_1b9ef80e072a2d8df3ac1632992ac65898e292a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/transition/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-26.1.0_3d17bc58e5881f71839e3835cf2e623bc13813b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c504aa54185269dae53073223fd711c23322ac02">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0ad916e7f429cb2adc10019442d5f063050180f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_3e0649f9cf167cc4855dc59e594b7198e0389ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_b907d17bdcba4ce7df10b4d48f6419864f7eac08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_f2576c7c4d3256b65b84e034b44585d37c3bc5a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/android.arch.lifecycle-runtime-1.0.0_1a5962046edebc08895a428fa169fd8b3e50771b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_8f07bc8b25e21d8e02b45ebddab5ef6c3ee67911/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_08ff70ecc2ca2f609f99e32b0059ee060679a267/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_4d7fc7bcd533b3a18118b9f18f5208eede500c6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-26.1.0_4b272d6df584b54cdb4f9218509dec47f5995c07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_0c8e8e76d4630c8b53905a25816c86147c383eb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_72cb5abb392e8141e6e0d3b91785795522f5f97e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-26.1.0_cc62a1e3d253d2a4aa486e0e0f7dd04d8e166614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_32b981921e666669bd9ab23f6b4f3661e6f20b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_3b05c352388aa7cdcc37d1801079ef0d2b44abd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.4.0/f00bc767918ad9c89e5c13e25706d033a58e13c2/firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.4.0_f1279afeb7280b2b3b4eaebc4a73e5ab617d904b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/VegMarket2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_aecbf3801c84ae7b552ba868b57132f7d1402a36/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_faqs"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.apiiit_rkv.vegmarket.FAQs">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:text="FAQs"
+            android:textColor="#000"
+            android:textSize="30sp"
+            android:layout_height="40dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:autoLink="all"
+            android:text="@string/faqs_kindly_check_the_faq_below_if_you_are_not_very_familiar_with_the_functioning_of_this_website_if_your_query_is_of_urgent_nature_and_is_different_from_the_set_of_questions_then_do_write_to_us_at_customerservice_bigbasket_com_or_call_us_on_1860_123_1000_between_7_am_10_pm_on_all_days_including_sunday_to_get_our_immediate_help"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="7dp"
+                android:text="Registration"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:background="#558022"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="How do I register?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:autoLink="all"
+                android:text="@string/you_can_register_by_clicking_on_the_sign_up_button_at_the_homepage_please_provide_the_information_in_the_form_that_appears_you_can_review_the_terms_and_conditions_provide_your_payment_mode_details_and_submit_the_registration_information"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="Are there any charges for registration?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="No. Registration on bigbasket.com is absolutely free."
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="Can I have multiple registrations?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="Each email address and contact phone number can only be associated with one bigbasket account."
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="7dp"
+                android:text="Payment"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:background="#558022"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="What are the modes of payment?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="@string/hii"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="Are there any other charges or taxes in addition to the price shown? Is VAT added to the invoice?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="There is no VAT. However, GST will be applicable as per Government Regulizations."
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="What is the meaning of cash on delivery?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="Cash on delivery means that you can pay for your order at the time of order delivery at your doorstep."
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="7dp"
+                android:text="Delivery Related"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:background="#558022"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="How are the fruits and vegetables packaged?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="Fresh fruits and vegetables are hand picked and hand cleaned. We ensure hygienic and careful handling of all our products."
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="How are the fruits and vegetables weighed?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="Every fruit and vegetable varies a little in size and weight. While you shop we show an estimated weight and price for everything priced by kilogram. At the time of delivery we weigh each item to determine final price. This could vary by 5% at maximum. Therefore if you have shopped for something that costs Rs. 100 per kg, and we delivery 1.5 kg of the product to you (eg cabbage, pineapple), you will still be charged a maximum of Rs. 105. In case the weight of the product is lesser than what you ordered, you will pay correspondingly less.   "
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="How will the delivery be done?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="We have a dedicated team of delivery personnel and a fleet of vehicles operating across the city which ensures timely and accurate delivery to our customers"
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="7dp"
+                android:text="Customer Related"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:background="#558022"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="How do I contact customer service?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:autoLink="all"
+                android:text="Our customer service team is available throughout the week, all seven days from 7 am to 10 pm. They can be reached at 8184817488 or via email at r121047@rgutkrkv.ac.in"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="What are your timings to contact customer service?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:text="Our customer service team is available throughout the week, all seven days from 7 am to 10 pm"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="How can I give feedback on the quality of customer service?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:autoLink="all"
+                android:text="Our customer support team constantly strives to ensure the best shopping experience for all our customers. We would love to hear about your experience with bigbasket. Do write to us r121047@rguktrkv.ac.in in case of positive or negative feedback."
+                />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_marginTop="7dp"
+                android:text="Other Faqs"
+                android:textColor="#fff"
+                android:textSize="18sp"
+                android:gravity="center_vertical"
+                android:layout_width="match_parent"
+                android:background="#558022"
+                android:layout_height="40dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="10dp"
+                android:text="The product I want is not available on bigbasket. How do I get my favorite neighborhood Specialty store listed on bigbasket?"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:autoLink="all"
+                android:text="You can write to r121047@rguktrkv.ac.in for all suggestions related to new stores or products. We will work extra hard to get the store listed on bigbasket and get the product available to you"
+                />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

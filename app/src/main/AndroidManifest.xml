@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.apiiit_rkv.vegmarket">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Login" />
+        <activity
+            android:name=".Registration"
+            android:label="@string/title_activity_registration"
+            android:parentActivityName=".Login">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.Login" />
+        </activity>
+        <activity
+            android:name=".ForgotPassword"
+            android:label="@string/title_activity_forgot_password"
+            android:parentActivityName=".Login">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.Login" />
+        </activity>
+        <activity
+            android:name=".VegetableMarket"
+            android:label="@string/title_activity_vegetable_market"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Cart"
+            android:label="@string/title_activity_carrt"
+            android:parentActivityName=".VegetableMarket">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.VegetableMarket" />
+        </activity>
+        <activity
+            android:name=".SingleItemBuy"
+            android:label="@string/title_activity_single_item_buy"
+            android:parentActivityName=".VegetableMarket">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.VegetableMarket" />
+        </activity>
+        <activity android:name=".Address" />
+        <activity android:name=".PaymentPage" />
+        <activity android:name=".SuccessfullPlaced" />
+        <activity
+            android:name=".FAQs"
+            android:label="@string/title_activity_faqs"
+            android:parentActivityName=".VegetableMarket">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.VegetableMarket" />
+        </activity>
+        <activity
+            android:name=".ContactUS"
+            android:label="@string/title_activity_contact_us"
+            android:parentActivityName=".VegetableMarket">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.VegetableMarket" />
+        </activity>
+        <activity
+            android:name=".SearchItems"
+            android:label="@string/title_activity_search_items"
+            android:parentActivityName=".VegetableMarket">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.VegetableMarket" />
+        </activity>
+        <activity
+            android:name=".NewOffers"
+            android:label="@string/title_activity_new_offers"
+            android:parentActivityName=".VegetableMarket">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.apiiit_rkv.vegmarket.VegetableMarket" />
+        </activity>
+    </application>
+
+</manifest>
